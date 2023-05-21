@@ -1,10 +1,9 @@
 ### Hi, Im Gabriel Belo
 - 🎓 Graduando no curso de Ciência da Computação pela Universidade Federal do Maranhão (UFMA)
-- 📚 Atualmente estudando Java, Spring Boot, Next, Node Js + Express + Prisma, 
-- ⚡ Fun fact: Mono Thresh
-- 
-![Snake animation](https://github.com/GabrielBeloDev/GabrielBeloDev/blob/output/github-contribution-grid-snake.svg)
+- 📚 Atualmente estudando Java, Spring Boot, Next, Node Js + Express + Prisma, C++ 
+- ⚡ Fun fact: AMO musculação
 <div>
+  ![Snake animation](https://github.com/GabrielBeloDev/GabrielBeloDev/blob/output/github-contribution-grid-snake.svg)
   <a href="https://github.com/GabrielBeloDev">
   <div>
     <a href="https://github.com/GabrielBeloDev">
