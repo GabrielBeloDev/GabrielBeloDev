@@ -2,7 +2,8 @@
 - 🎓 Graduando no curso de Ciência da Computação pela Universidade Federal do Maranhão (UFMA)
 - 📚 Atualmente estudando Java, Spring Boot, Next, Node Js + Express + Prisma, C++ 
 - ⚡ Fun fact: AMO musculação
-![Snake animation](https://github.com/GabrielBeloDev/GabrielBeloDev/blob/output/github-contribution-grid-snake.svg)
+
+
 <div>
   <a href="https://github.com/GabrielBeloDev">
   <div>
