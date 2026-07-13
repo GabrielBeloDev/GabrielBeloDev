@@ -44,21 +44,6 @@
 
 <br>
 
-## 📌 Repositórios em destaque
-
-<div align="center">
-
-| Repositório | Descrição | Linguagem | |
-|---|---|:---:|:---:|
-| [`resource-collector-agents`](https://github.com/GabrielBeloDev/resource-collector-agents) | Simulação multiagente (Reativo, BDI, Cooperativo...) coletando recursos em um grid 2D | ![lang](https://img.shields.io/github/languages/top/GabrielBeloDev/resource-collector-agents?style=flat-square&color=1a1b26&label=%20) | ![stars](https://img.shields.io/github/stars/GabrielBeloDev/resource-collector-agents?style=flat-square&color=1a1b26&label=%E2%98%85) |
-| [`genetic-algorithm-einstein-challenge`](https://github.com/GabrielBeloDev/genetic-algorithm-einstein-challenge) | Algoritmo genético aplicado ao clássico Enigma de Einstein | ![lang](https://img.shields.io/github/languages/top/GabrielBeloDev/genetic-algorithm-einstein-challenge?style=flat-square&color=1a1b26&label=%20) | ![stars](https://img.shields.io/github/stars/GabrielBeloDev/genetic-algorithm-einstein-challenge?style=flat-square&color=1a1b26&label=%E2%98%85) |
-| [`bora-sair`](https://github.com/GabrielBeloDev/bora-sair) | 💌 Convite romântico interativo com IA Cupido — Next.js + Vercel | ![lang](https://img.shields.io/github/languages/top/GabrielBeloDev/bora-sair?style=flat-square&color=1a1b26&label=%20) | ![stars](https://img.shields.io/github/stars/GabrielBeloDev/bora-sair?style=flat-square&color=1a1b26&label=%E2%98%85) |
-| [`computational-theory-norma`](https://github.com/GabrielBeloDev/computational-theory-norma) | Máquina NORMA em C++ com 11 funções matemáticas para teoria da computação | ![lang](https://img.shields.io/github/languages/top/GabrielBeloDev/computational-theory-norma?style=flat-square&color=1a1b26&label=%20) | ![stars](https://img.shields.io/github/stars/GabrielBeloDev/computational-theory-norma?style=flat-square&color=1a1b26&label=%E2%98%85) |
-
-</div>
-
-<br>
-
 ## 📈 Atividade
 
 <div align="center">
