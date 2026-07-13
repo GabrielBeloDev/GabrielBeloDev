@@ -48,32 +48,22 @@
 
 <div align="center">
 
-<a href="https://github.com/GabrielBeloDev/resource-collector-agents"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielBeloDev&repo=resource-collector-agents&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/GabrielBeloDev/genetic-algorithm-einstein-challenge"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielBeloDev&repo=genetic-algorithm-einstein-challenge&theme=tokyonight&hide_border=true" /></a>
-<br>
-<a href="https://github.com/GabrielBeloDev/bora-sair"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielBeloDev&repo=bora-sair&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/GabrielBeloDev/computational-theory-norma"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielBeloDev&repo=computational-theory-norma&theme=tokyonight&hide_border=true" /></a>
+| Repositório | Descrição | Linguagem | |
+|---|---|:---:|:---:|
+| [`resource-collector-agents`](https://github.com/GabrielBeloDev/resource-collector-agents) | Simulação multiagente (Reativo, BDI, Cooperativo...) coletando recursos em um grid 2D | ![lang](https://img.shields.io/github/languages/top/GabrielBeloDev/resource-collector-agents?style=flat-square&color=1a1b26&label=%20) | ![stars](https://img.shields.io/github/stars/GabrielBeloDev/resource-collector-agents?style=flat-square&color=1a1b26&label=%E2%98%85) |
+| [`genetic-algorithm-einstein-challenge`](https://github.com/GabrielBeloDev/genetic-algorithm-einstein-challenge) | Algoritmo genético aplicado ao clássico Enigma de Einstein | ![lang](https://img.shields.io/github/languages/top/GabrielBeloDev/genetic-algorithm-einstein-challenge?style=flat-square&color=1a1b26&label=%20) | ![stars](https://img.shields.io/github/stars/GabrielBeloDev/genetic-algorithm-einstein-challenge?style=flat-square&color=1a1b26&label=%E2%98%85) |
+| [`bora-sair`](https://github.com/GabrielBeloDev/bora-sair) | 💌 Convite romântico interativo com IA Cupido — Next.js + Vercel | ![lang](https://img.shields.io/github/languages/top/GabrielBeloDev/bora-sair?style=flat-square&color=1a1b26&label=%20) | ![stars](https://img.shields.io/github/stars/GabrielBeloDev/bora-sair?style=flat-square&color=1a1b26&label=%E2%98%85) |
+| [`computational-theory-norma`](https://github.com/GabrielBeloDev/computational-theory-norma) | Máquina NORMA em C++ com 11 funções matemáticas para teoria da computação | ![lang](https://img.shields.io/github/languages/top/GabrielBeloDev/computational-theory-norma?style=flat-square&color=1a1b26&label=%20) | ![stars](https://img.shields.io/github/stars/GabrielBeloDev/computational-theory-norma?style=flat-square&color=1a1b26&label=%E2%98%85) |
 
 </div>
 
 <br>
 
-## 📊 Estatísticas do GitHub
+## 📈 Atividade
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielBeloDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBeloDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <img src="https://streak-stats.demolab.com/?user=GabrielBeloDev&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-## 🐍 Contribuições
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/GabrielBeloDev/GabrielBeloDev/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
